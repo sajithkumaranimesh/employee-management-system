@@ -1,4 +1,4 @@
-package edu.icet.employeecrm.employeeController;
+package edu.icet.employeecrm.controller;
 
 import edu.icet.employeecrm.dto.Employee;
 import edu.icet.employeecrm.entity.EmployeeEntity;
@@ -23,7 +23,7 @@ public class EmployeeController {
 
 
     @GetMapping("/get-all")
-    public List<EmployeeEntity> getAll(){
+    public List<Employee> getAll(){
         return service.getAll();
     }
 }
