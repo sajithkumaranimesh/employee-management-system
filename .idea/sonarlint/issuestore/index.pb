@@ -7,8 +7,6 @@ d
 4src/main/java/edu/icet/employeecrm/dto/Employee.java,f\a\fa5e656a756a21e8d9e4d3e7f271215dfa8def68
 Å
 Q.idea/sonarlint/securityhotspotstore/f/a/fa5e656a756a21e8d9e4d3e7f271215dfa8def68,8\e\8e4af8d0cb6ccb4d0c0a27df060b82ebdbd5894f
-Å
-Q.idea/sonarlint/securityhotspotstore/c/8/c8b7759b743e05c968d799300d05ff867952c93e,c\0\c0bc5af8a3b5e7dc73477a1037bdef8fa90c8723
 R
 "src/main/resources/application.yml,a\6\a6d8b8556fee0e03112ce2bf34b8cb27a7dc9e58
 m
